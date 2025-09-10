@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg x="0px" y="0px" width="800px" height="800px" viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Layer 2 Copy 2">
+    <radialGradient cx="399.25" cy="401.25" r="303" fx="399.25" fy="401.25" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1,1.50996e-07,-1.50996e-07,-1,798.5,802.5)" id="am2">
+      <stop style="stop-color:#ff211f;stop-opacity:1;"/>
+      <stop offset="1" style="stop-color:#84081f;stop-opacity:1;"/>
+    </radialGradient>
+    <g id="Path">
+      <path style="fill:none;opacity:1;stroke:url(#am2);stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-width:15;" d="M96.25,401.25 C96.25,233.908,231.908,98.25,399.25,98.25 C566.592,98.25,702.25,233.908,702.25,401.25 C702.25,568.592,566.592,704.25,399.25,704.25 C231.908,704.25,96.25,568.592,96.25,401.25 z"/>
+    </g>
+    <radialGradient cx="399.75" cy="399.25" r="327.78" fx="399.75" fy="399.25" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1,1.50996e-07,-1.50996e-07,-1,799.5,798.5)" id="am4">
+      <stop style="stop-color:#ff211f;stop-opacity:1;"/>
+      <stop offset="1" style="stop-color:#84081f;stop-opacity:1;"/>
+    </radialGradient>
+    <g id="Path 4">
+      <path style="fill:none;opacity:1;stroke:url(#am4);stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-width:7;" d="M96.25,399.25 C96.25,399.25,239.25,399.25,239.25,399.25 M560.25,399.25 C560.25,399.25,703.25,399.25,703.25,399.25 M399.837,95.75 C399.837,95.75,399.796,238.75,399.796,238.75 M399.704,559.75 C399.704,559.75,399.663,702.75,399.663,702.75 M217.25,217.25 C189.25,189.25,186.25,186.25,186.25,186.25 M613.25,613.25 C585.25,585.25,582.25,582.25,582.25,582.25 M217.25,582.25 C189.25,610.25,186.25,613.25,186.25,613.25 M613.25,186.25 C585.25,214.25,582.25,217.25,582.25,217.25"/>
+    </g>
+    <radialGradient cx="877.5" cy="281.5" r="0" fx="877.5" fy="281.5" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1,0,0,1,0,0)" id="am6">
+      <stop style="stop-color:#ff211f;stop-opacity:1;"/>
+      <stop offset="1" style="stop-color:#84081f;stop-opacity:1;"/>
+    </radialGradient>
+    <g id="Path">
+      <path style="fill:none;opacity:1;stroke:url(#am6);stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-width:7;" d="M877.5,281.5"/>
+    </g>
+    <g id="Path 6">
+      <path style="fill:none;opacity:1;stroke:#cb171f;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-width:5;" d="M377.376,589.134 C287.951,579.517,216.935,508.816,207.352,419.831 M207.352,419.831 M398.25,208.25 M377.376,589.134 M377.376,208.25 C287.951,217.867,216.935,288.568,207.352,377.553 M207.352,377.553 M398.25,589.134 M377.376,208.25 M423.385,589.384 C512.858,579.767,583.911,509.066,593.5,420.081 M593.5,420.081 M402.5,208.5 M423.385,589.384 M423.385,208.5 C512.858,218.117,583.911,288.818,593.5,377.803 M593.5,377.803 M402.5,589.384 M423.385,208.5"/>
+    </g>
+    <radialGradient cx="400.5" cy="400" r="72.5" fx="400.5" fy="400" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-4.37114e-08,-1,1,-4.37114e-08,0.500018,800.5)" id="am9">
+      <stop style="stop-color:#ff211f;stop-opacity:1;"/>
+      <stop offset="1" style="stop-color:#84081f;stop-opacity:1;"/>
+    </radialGradient>
+    <g id="Path 8">
+      <path style="fill:none;opacity:1;stroke:url(#am9);stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-width:3;" d="M400.5,327.5 C400.5,327.5,400.5,344.5,400.5,344.5 M400.5,455.5 C400.5,455.5,400.5,472.5,400.5,472.5 M328,400 C328,400,345,400,345,400 M456,400 C456,400,473,400,473,400"/>
+    </g>
+    <g id="Path">
+      <path style="fill:none;opacity:1;stroke:#cb171f;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-width:3;" d="M418.5,400.5 C418.5,400.5,406.5,395.5,406.5,395.5 C406.5,395.5,400.5,382.5,400.5,382.5 C400.5,382.5,394.5,395.5,394.5,395.5 C394.5,395.5,382.5,400.5,382.5,400.5 C382.5,400.5,394.5,405.5,394.5,405.5 C394.5,405.5,400.5,418.5,400.5,418.5 C400.5,418.5,406.5,405.5,406.5,405.5 C406.5,405.5,418.5,400.5,418.5,400.5 z"/>
+    </g>
+    <radialGradient cx="781" cy="-51" r="0" fx="781" fy="-51" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1,0,0,1,0,0)" id="am12">
+      <stop style="stop-color:#ff211f;stop-opacity:1;"/>
+      <stop offset="1" style="stop-color:#84081f;stop-opacity:1;"/>
+    </radialGradient>
+    <g id="Path">
+      <path style="fill:none;opacity:1;stroke:url(#am12);stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-width:3;" d="M781,-51"/>
+    </g>
+  </g>
+</svg>
