@@ -50,8 +50,25 @@ nav ul li a {
     border-radius: 25px;
 }
 
+.button-not-selected {
+    display: inline-block;
+    padding: 10px 30px;
+
+    text-decoration: none;
+    color: aliceblue;
+    font-weight: 700;
+
+    background: #50237a7d;
+    border-radius: 25px;
+}
+
 .button:hover {
     background: #50237a91;
+    color: rgba(240, 248, 255, 0.813);
+}
+
+.button-not-selected:hover {
+    background: #50237a;
     color: rgba(240, 248, 255, 0.813);
 }
 
@@ -61,9 +78,18 @@ nav ul li a {
 }
 
 /* MAIN PERSONAL INFO */
+.background-info {
+    padding-left: 75px;
+    padding-right: 75px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    gap: 5rem;
+}
+
 .info {
-    margin-top: 10px;
-    max-width: 40%;
+    flex: 1;
 }
 
 .info h1 {
@@ -76,12 +102,26 @@ nav ul li a {
     font-weight: 400;
 }
 
+.pfp {
+    width: 100%;
+    max-width: 400px;
+    object-fit: cover;
+    vertical-align: middle;
+}
+
 /* PROJECT DISPLAYS */
-.container {
+.thirds-container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(3, 1fr);
     gap: 15px;
+}
+
+.pair-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+    align-items: center;
 }
 
 .ui-icon {
@@ -92,3 +132,6 @@ nav ul li a {
     margin-top: 50px;
 }
 
+img {
+    width: 100%;
+}
